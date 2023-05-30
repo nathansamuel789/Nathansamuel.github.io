@@ -1,0 +1,64 @@
+body{
+    height: 100vh;
+    background-color:#FB803B;
+}
+
+.container{
+    width: 100%;
+    height: 400px;
+    background-position: center;
+    background-size: cover;
+    background-image:url(images/story.gif);
+    background-attachment: fixed;
+    background-color: #752c02;
+    background-blend-mode:overlay;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+
+h1{
+    color: aliceblue;
+    font-family: 'Horizon';
+font-style: normal;
+font-weight: 700;
+font-size: 96px;
+}
+
+    
+
+.special{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    text-align: center;
+    align-items: center;
+    font-family: 'Horizon';
+    
+font-weight: 6;
+font-size: 15px;
+line-height: 30px;
+color: #FB803B;
+background-color: black;
+margin:auto;
+
+
+}
+
+.topnav a {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+    background-color: black;
+    margin-bottom:2%;
+    width: 279px;
+   }
+
+   .topnav a:hover {
+    background-color: white;
+    color: black;
+   }
