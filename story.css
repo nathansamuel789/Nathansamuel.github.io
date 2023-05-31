@@ -2,6 +2,7 @@ body{
     height: 55vh;
     background-color:#FB803B;
 }
+ /* Background color and height of the page*/
 
 .container{
     width: 100%;
@@ -16,6 +17,7 @@ body{
     justify-content: center;
     display: flex;
 }
+ /* in this container I styled a background image and made it appear in the center and added filters to it*/
 
 h1{
     color: aliceblue;
@@ -24,6 +26,8 @@ font-style: normal;
 font-weight: 700;
 font-size: 96px;
 }
+
+ /* Styling the heading*/
 
     
 
@@ -46,6 +50,8 @@ margin:auto;
 
 }
 
+ /* this is for the paragrapgh styling and to align it into the center*/
+
 .topnav a {
     float: left;
     color: #f2f2f2;
@@ -57,12 +63,13 @@ margin:auto;
     margin-bottom:2%;
     width: 214px;
    }
+    /*nav bar styling*/
 
    .topnav a:hover {
     background-color: white;
     color: black;
    }
-
+ /* hover effect styling*/
    .footer {
     position:absolute;
     left: 0;
@@ -72,4 +79,4 @@ margin:auto;
     color: white;
     text-align: center;
     font-family: "Horizon";
-  }
+  } /* Styling the footer*/

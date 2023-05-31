@@ -9,6 +9,7 @@ body{
     position: relative;
 
   }
+  /* Positions the image*/
  
 
   .top-right{
@@ -20,7 +21,7 @@ body{
         font-size: 50px;
 
     }
-    /* position*/
+    /*In this i styled the the text with adding fonts,colors, and size and even adjusting the position*/
 
     .text-overlay {
         position: absolute;
@@ -46,6 +47,7 @@ body{
       color: aliceblue;
       
     }
+    /* This is for the paragraph ,I right alligned it added slighttext shadows and etc.*/
 
     .bottom{
       position: absolute;
@@ -79,13 +81,13 @@ body{
   margin-bottom:2%;
  width: 216px;
 }
- 
+ /* Styling the nav bar.*/
 
  .topnav a:hover {
   background-color: white;
   color: black;
  }
-
+/* Adding hover effects*/
  .footer {
   position:absolute;
   left: 0;
@@ -96,3 +98,4 @@ body{
   text-align: center;
   font-family: "Horizon";
 }
+/* Styling the footer with a background color of white*/

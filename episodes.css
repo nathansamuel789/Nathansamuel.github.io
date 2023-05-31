@@ -2,16 +2,18 @@ body{
     height:1000vh;
     background-color: #FB803B;
 }
+ /*Adding background color and height of the page*/
 
 a:link, a:visited {
     color: white;
     padding: 140x 10px;
     text-decoration: none;
   }
+   /* this is for the link styling */
   
   a:hover, a:active {
     color:#FB803B;
-  }
+  } /* when cursor is hovered over the the text it highlights in orange */
 .footer {
     position:absolute;
     left: 0;
@@ -21,7 +23,7 @@ a:link, a:visited {
     color: white;
     text-align: center;
     font-family: "Horizon";
-  }
+  } /* Styling the footer*/
 
 .topnav a {
     float: left;
@@ -45,6 +47,7 @@ a:link, a:visited {
     color: #000000;
     text-align: center;
    }
+    /* Styling the heading*/
 
 .container{
     position: relative;
@@ -57,6 +60,7 @@ img{
     filter: hue-rotate(1deg);
     margin-bottom: 30px;
 }
+ /* adjusting the position of each image*/
 
 .center{
     position:absolute;
@@ -70,7 +74,7 @@ img{
     text-align: center;
 
 }
-
+ /*centering the heading in the middle of the image*/
 .container2{
     position: relative;
 }
@@ -86,6 +90,7 @@ img{
     text-align: center;
 
 }
+
 
 .container3{
     position: relative;
