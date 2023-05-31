@@ -1,5 +1,5 @@
 body{
-    height: 100vh;
+    height: 55vh;
     background-color:#FB803B;
 }
 
@@ -55,10 +55,21 @@ margin:auto;
     font-size: 17px;
     background-color: black;
     margin-bottom:2%;
-    width: 279px;
+    width: 214px;
    }
 
    .topnav a:hover {
     background-color: white;
     color: black;
    }
+
+   .footer {
+    position:absolute;
+    left: 0;
+    margin-bottom: 0px;
+    width: 100%;
+    background-color: rgb(0, 0, 0);
+    color: white;
+    text-align: center;
+    font-family: "Horizon";
+  }

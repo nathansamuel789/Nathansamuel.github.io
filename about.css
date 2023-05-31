@@ -1,5 +1,6 @@
-*{
+body{
     background: #FB803B;
+
     
   }
   /* This adds a orange background to the body*/
@@ -61,29 +62,10 @@
   left: 500px;
   bottom: 345px;
   width: 1px;
-  height: auto;
   filter: hue-rotate(120deg);
 }
 
-h2{
-  position: absolute;
-width: 900px;
-height: 240px;
-left: 490px;
-top: 110px;
 
-font-family: 'ITC Avant Garde Gothic Std';
-font-style: italic;
-font-weight: 600;
-font-size: 200px;
-line-height: 240px;
-/* identical to box height */
-
-
-color: rgba(255, 237, 237, 0.6);
-
-transform: rotate(90.32deg);
-}
 
 
 .topnav a {
@@ -94,11 +76,23 @@ transform: rotate(90.32deg);
   text-decoration: none;
   font-size: 17px;
   background-color: black;
-  margin-bottom: 30px;
-  width: 279px;
- }
+  margin-bottom:2%;
+ width: 216px;
+}
+ 
 
  .topnav a:hover {
   background-color: white;
   color: black;
  }
+
+ .footer {
+  position:absolute;
+  left: 0;
+  margin-bottom: 0px;
+  width: 100%;
+  background-color: rgb(0, 0, 0);
+  color: white;
+  text-align: center;
+  font-family: "Horizon";
+}
