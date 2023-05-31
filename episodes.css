@@ -19,6 +19,12 @@ body{
     color: black;
    }
 
+   h1{
+    font-family: "Horizon";
+    color: #000000;
+    text-align: center;
+   }
+
 .container{
     position: relative;
 }

@@ -2,6 +2,7 @@
   background: #FB803B;
   
 }
+/* This adds a orange background to the body*/
 
 .topnav a {
  float: left;
@@ -14,11 +15,13 @@
  margin-bottom:20%;
  width: 279px;
 }
+/*Styling the nav bar */
 
 .topnav a:hover {
  background-color: white;
  color: black;
 }
+/* Adds an hover effect twhen the the cursor is moved across the nav bar */
 
 .topnav-right {
  float: right;
@@ -38,11 +41,12 @@
   height: 50%;
   padding: 20px;
 }
-
+/* This part adds a black color background the png image*/
 
 .top-image {
  margin-top: 0%;
 }
+/* helps to position the image*/
 
 .middle-nav {
  order: 1;

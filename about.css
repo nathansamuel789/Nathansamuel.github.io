@@ -2,7 +2,7 @@
     background: #FB803B;
     
   }
-  
+  /* This adds a orange background to the body*/
 
   .image-conatiner{
     position: relative;
@@ -19,6 +19,7 @@
         font-size: 50px;
 
     }
+    /* position*/
 
     .text-overlay {
         position: absolute;
@@ -58,7 +59,7 @@
 .bottom-right{
   position: relative;
   left: 500px;
-  bottom: 340px;
+  bottom: 345px;
   width: 1px;
   height: auto;
   filter: hue-rotate(120deg);
@@ -93,7 +94,7 @@ transform: rotate(90.32deg);
   text-decoration: none;
   font-size: 17px;
   background-color: black;
- 
+  margin-bottom: 30px;
   width: 279px;
  }
 
